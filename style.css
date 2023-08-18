@@ -1,0 +1,56 @@
+*
+	body 
+	{
+		background-color :#000000;
+		color : #ffffff;
+
+	}
+	header
+	{
+		display : flex;
+		position : fixed;
+		float: left;
+		left: 10%;
+	}
+
+	nav a 
+	{
+		color : white;
+		text-decoration: none;
+		padding: 14px 20px;
+		display: inline-block;
+	
+	}
+	.img 
+	{
+		position : absolute;
+		margin-top: 10%;
+		float : left;
+		width : 25%;
+		height: 45%;
+			
+	}
+	section 
+	{
+		position : absolute;
+		float :left;
+		margin-top : 10%;
+		left : 30%;
+	}
+	.dev
+	{
+		color :#1ddfbd;
+	}
+
+	#button
+	{
+		background-color: #1ddfbd;
+		
+	}
+		
+	#button1
+	{
+		background-color: #000000;
+		color :#1ddfbd;
+		border-color: #1ddfbd;
+	}
